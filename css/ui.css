@@ -1,0 +1,32 @@
+.header-block__title {
+  font-family: "Times New Roman", Times, serif;
+  color: #222222;
+  font-size: 44px;
+  line-height: 24px;
+  text-transform: uppercase;
+}
+
+/* 
+.header-block {
+   text-align: center;
+
+   &__title {
+      font-size: 34px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 8.95px;
+      position: relative;
+      padding: 0px 0px 30px 0px;
+
+      &:after {
+         content: "";
+         width: 81px;
+         height: 1px;
+         background-color: #000;
+         position: absolute;
+         left: 50%;
+         margin: 0px 0px 0px -40.5px;
+         bottom: 0;
+      }
+   }
+*/
